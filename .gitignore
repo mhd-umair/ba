@@ -1,0 +1,6 @@
+perseus_equipment_database.db
+*.db
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
